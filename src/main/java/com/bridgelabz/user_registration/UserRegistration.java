@@ -5,5 +5,6 @@ public class UserRegistration {
         ValidateUserInfo validateUserInfo = new ValidateUserInfo();
         validateUserInfo.firstName();
         validateUserInfo.lastName();
+        validateUserInfo.email();
     }
 }
