@@ -8,5 +8,6 @@ public class UserRegistration {
         validateUserInfo.email();
         validateUserInfo.mobileNumber();
         validateUserInfo.passwordWithEightChar();
+        validateUserInfo.passwordWithOneUpperCase();
     }
 }
