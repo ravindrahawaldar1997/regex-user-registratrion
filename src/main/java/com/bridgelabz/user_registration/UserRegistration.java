@@ -11,5 +11,6 @@ public class UserRegistration {
         validateUserInfo.passwordWithOneUpperCase();
         validateUserInfo.passwordWithOneNumeric();
         validateUserInfo.passwordWithOneSpecialChar();
+        validateUserInfo.verifyValidEmails();
     }
 }
