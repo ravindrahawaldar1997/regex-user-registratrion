@@ -9,5 +9,6 @@ public class UserRegistration {
         validateUserInfo.mobileNumber();
         validateUserInfo.passwordWithEightChar();
         validateUserInfo.passwordWithOneUpperCase();
+        validateUserInfo.passwordWithOneNumeric();
     }
 }
